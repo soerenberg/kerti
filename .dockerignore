@@ -1,0 +1,6 @@
+.git
+.venv
+.ipynb_checkpoints
+.mypy_cache
+poetry.lock
+README.md
