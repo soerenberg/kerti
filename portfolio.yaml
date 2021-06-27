@@ -1,25 +1,6 @@
-- ticker: ABBA.SW
-  num: 20
 - ticker: AAPL
   num: 5
-- ticker: 1COV.DE
-  num: 10
-- ticker: HLT
-  num: 2
-- ticker: IWDA.L
-  num: 8
 - ticker: PYPL
   num: 2
-- ticker: SPYI.DE
-  num: 1
 - ticker: SPOT
   num: 3
-- ticker: XMAW.DE
-  num: 20
-- ticker: DXET.DE
-  num: 8
-- ticker: DX2J.DE
-  num: 10
-
-
-
